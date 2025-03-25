@@ -137,18 +137,26 @@ func (m *Matrix) Augment(right *Matrix) *Matrix {
 	if m.rows != right.rows {
 		panic("Matrices do not have the same number of rows")
 	}
+
 	result := NewMatrix(m.rows, m.columns+right.columns)
 	for r := 0; r < m.rows; r++ {
-		copy(result.data[r][:m.columns], m.data[r])
-		copy(result.data[r][m.columns:], right.data[r])
+		for c := 0; c < m.columns; c++ {
+			result.data[r][c] = m.data[r][c]
+		}
+		for c := 0; c < right.columns; c++ {
+			result.data[r][m.columns+c] = right.data[r][c]
+		}
 	}
 	return result
 }
 
 func (m *Matrix) Submatrix(rmin, cmin, rmax, cmax int) *Matrix {
+
 	result := NewMatrix(rmax-rmin, cmax-cmin)
 	for r := rmin; r < rmax; r++ {
-		copy(result.data[r-rmin], m.data[r][cmin:cmax])
+		for c := cmin; c < cmax; c++ {
+			result.data[r-rmin][c-cmin] = m.data[r][c]
+		}
 	}
 	return result
 }

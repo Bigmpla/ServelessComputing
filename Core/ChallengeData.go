@@ -6,7 +6,7 @@ type ChallengeData struct {
 	Index        []int
 }
 
-func initCD(index []int, coefficients []byte) *ChallengeData {
+func InitCD(index []int, coefficients []byte) *ChallengeData {
 	return &ChallengeData{
 		Coefficients: coefficients,
 		Index:        index,

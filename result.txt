@@ -1,0 +1,249 @@
+Audit data size is 34398. No. 1 audit process. 
+StorageCost 22932  CommunicationCost 5
+time[0] = 0  time[1] = 4703300  time[2] = 787523000  time[3] = 0  time[4] = 0  
+Audit data size is 34404. No. 1 audit process. 
+StorageCost 22936  CommunicationCost 5
+time[0] = 0  time[1] = 5647300  time[2] = 720824500  time[3] = 648400  time[4] = 560700  
+Audit data size is 34410. No. 1 audit process. 
+StorageCost 22940  CommunicationCost 5
+time[0] = 0  time[1] = 4788000  time[2] = 765647900  time[3] = 589400  time[4] = 0  
+Audit data size is 34416. No. 1 audit process. 
+StorageCost 22944  CommunicationCost 5
+time[0] = 0  time[1] = 4598700  time[2] = 717748600  time[3] = 0  time[4] = 3789409900  
+Audit data size is 34422. No. 1 audit process. 
+StorageCost 22948  CommunicationCost 5
+time[0] = 0  time[1] = 5177400  time[2] = 830626000  time[3] = 522800  time[4] = 1126700  
+Audit data size is 34428. No. 1 audit process. 
+StorageCost 22952  CommunicationCost 5
+time[0] = 0  time[1] = 5134000  time[2] = 861272600  time[3] = 0  time[4] = 534000  
+Audit data size is 34434. No. 1 audit process. 
+StorageCost 22956  CommunicationCost 5
+time[0] = 0  time[1] = 5676400  time[2] = 841057000  time[3] = 505700  time[4] = 533200  
+Audit data size is 34440. No. 1 audit process. 
+StorageCost 22960  CommunicationCost 5
+time[0] = 0  time[1] = 7640400  time[2] = 773476300  time[3] = 0  time[4] = 35666251400  
+Audit data size is 34446. No. 1 audit process. 
+StorageCost 22964  CommunicationCost 5
+time[0] = 0  time[1] = 5203000  time[2] = 871322700  time[3] = 543900  time[4] = 552700  
+Audit data size is 34452. No. 1 audit process. 
+StorageCost 22968  CommunicationCost 5
+time[0] = 0  time[1] = 4668300  time[2] = 878370600  time[3] = 0  time[4] = 0  
+Audit data size is 34458. No. 1 audit process. 
+StorageCost 22972  CommunicationCost 5
+time[0] = 0  time[1] = 5175200  time[2] = 827505400  time[3] = 617300  time[4] = 1087000  
+Audit data size is 34464. No. 1 audit process. 
+StorageCost 22976  CommunicationCost 5
+time[0] = 0  time[1] = 4644000  time[2] = 820862300  time[3] = 0  time[4] = 1115200  
+Audit data size is 34470. No. 1 audit process. 
+StorageCost 22980  CommunicationCost 5
+time[0] = 0  time[1] = 4667800  time[2] = 819836200  time[3] = 0  time[4] = 571700  
+Audit data size is 34476. No. 1 audit process. 
+StorageCost 22984  CommunicationCost 5
+time[0] = 0  time[1] = 5210200  time[2] = 860826200  time[3] = 0  time[4] = 505100  
+Audit data size is 34482. No. 1 audit process. 
+StorageCost 22988  CommunicationCost 5
+time[0] = 0  time[1] = 4657000  time[2] = 764716900  time[3] = 0  time[4] = 0  
+Audit data size is 34488. No. 1 audit process. 
+StorageCost 22992  CommunicationCost 5
+time[0] = 517500  time[1] = 5120300  time[2] = 815161300  time[3] = 0  time[4] = 0  
+Audit data size is 34494. No. 1 audit process. 
+StorageCost 22996  CommunicationCost 5
+time[0] = 0  time[1] = 5670700  time[2] = 758067800  time[3] = 557400  time[4] = 0  
+Audit data size is 34500. No. 1 audit process. 
+StorageCost 23000  CommunicationCost 5
+time[0] = 0  time[1] = 5104800  time[2] = 722581700  time[3] = 0  time[4] = 0  
+Audit data size is 34506. No. 1 audit process. 
+StorageCost 23004  CommunicationCost 5
+time[0] = 0  time[1] = 4663700  time[2] = 875742200  time[3] = 0  time[4] = 0  
+Audit data size is 34512. No. 1 audit process. 
+StorageCost 23008  CommunicationCost 5
+time[0] = 0  time[1] = 5201400  time[2] = 825920700  time[3] = 0  time[4] = 596900  
+Audit data size is 34518. No. 1 audit process. 
+StorageCost 23012  CommunicationCost 5
+time[0] = 0  time[1] = 4631800  time[2] = 738355700  time[3] = 0  time[4] = 0  
+Audit data size is 34524. No. 1 audit process. 
+StorageCost 23016  CommunicationCost 5
+time[0] = 0  time[1] = 5198500  time[2] = 721977700  time[3] = 0  time[4] = 0  
+Audit data size is 34530. No. 1 audit process. 
+StorageCost 23020  CommunicationCost 5
+time[0] = 0  time[1] = 5131800  time[2] = 699101100  time[3] = 0  time[4] = 1129600  
+Audit data size is 34536. No. 1 audit process. 
+StorageCost 23024  CommunicationCost 5
+time[0] = 0  time[1] = 5146600  time[2] = 737259600  time[3] = 0  time[4] = 681000  
+Audit data size is 34542. No. 1 audit process. 
+StorageCost 23028  CommunicationCost 5
+time[0] = 0  time[1] = 4666500  time[2] = 1268271800  time[3] = 0  time[4] = 506200  
+Audit data size is 34548. No. 1 audit process. 
+StorageCost 23032  CommunicationCost 5
+time[0] = 0  time[1] = 5172000  time[2] = 846485700  time[3] = 0  time[4] = 1119300  
+Audit data size is 34554. No. 1 audit process. 
+StorageCost 23036  CommunicationCost 5
+time[0] = 0  time[1] = 5118300  time[2] = 1966701400  time[3] = 0  time[4] = 1085400  
+Audit data size is 34560. No. 1 audit process. 
+StorageCost 23040  CommunicationCost 5
+time[0] = 0  time[1] = 5217600  time[2] = 835174900  time[3] = 0  time[4] = 0  
+Audit data size is 34566. No. 1 audit process. 
+StorageCost 23044  CommunicationCost 5
+time[0] = 0  time[1] = 4660200  time[2] = 876071200  time[3] = 0  time[4] = 535400  
+Audit data size is 34572. No. 1 audit process. 
+StorageCost 23048  CommunicationCost 5
+time[0] = 0  time[1] = 4646000  time[2] = 727108700  time[3] = 0  time[4] = 0  
+Audit data size is 34578. No. 1 audit process. 
+StorageCost 23052  CommunicationCost 5
+time[0] = 0  time[1] = 7678800  time[2] = 10917607900  time[3] = 0  time[4] = 62083119500  
+Audit data size is 34584. No. 1 audit process. 
+StorageCost 23056  CommunicationCost 5
+time[0] = 0  time[1] = 7807800  time[2] = 779003400  time[3] = 0  time[4] = 23187377400  
+Audit data size is 34590. No. 1 audit process. 
+StorageCost 23060  CommunicationCost 5
+time[0] = 0  time[1] = 7718800  time[2] = 760196900  time[3] = 0  time[4] = 37467980000  
+Audit data size is 34596. No. 1 audit process. 
+StorageCost 23064  CommunicationCost 5
+time[0] = 0  time[1] = 5118000  time[2] = 870951400  time[3] = 0  time[4] = 694700  
+Audit data size is 34608. No. 1 audit process. 
+StorageCost 23072  CommunicationCost 5
+time[0] = 0  time[1] = 4633200  time[2] = 857046000  time[3] = 0  time[4] = 591100  
+Audit data size is 34614. No. 1 audit process. 
+StorageCost 23076  CommunicationCost 5
+time[0] = 0  time[1] = 5677000  time[2] = 837418100  time[3] = 0  time[4] = 1998300  
+Audit data size is 34698. No. 1 audit process. 
+StorageCost 23132  CommunicationCost 5
+time[0] = 0  time[1] = 5835000  time[2] = 808974500  time[3] = 0  time[4] = 0  
+Audit data size is 34704. No. 1 audit process. 
+StorageCost 23136  CommunicationCost 5
+time[0] = 0  time[1] = 4602500  time[2] = 709752900  time[3] = 651000  time[4] = 764400  
+Audit data size is 35016. No. 1 audit process. 
+StorageCost 23344  CommunicationCost 5
+time[0] = 513500  time[1] = 4716100  time[2] = 1678751400  time[3] = 0  time[4] = 0  
+Audit data size is 35022. No. 1 audit process. 
+StorageCost 23348  CommunicationCost 5
+time[0] = 0  time[1] = 8773100  time[2] = 12734680000  time[3] = 0  time[4] = 89900864700  
+Audit data size is 35028. No. 1 audit process. 
+StorageCost 23352  CommunicationCost 5
+time[0] = 515500  time[1] = 5246600  time[2] = 1978503400  time[3] = 0  time[4] = 0  
+Audit data size is 35034. No. 1 audit process. 
+StorageCost 23356  CommunicationCost 5
+time[0] = 509800  time[1] = 4683800  time[2] = 1075234200  time[3] = 0  time[4] = 0  
+Audit data size is 35040. No. 1 audit process. 
+StorageCost 23360  CommunicationCost 5
+time[0] = 517200  time[1] = 5243300  time[2] = 1011615500  time[3] = 0  time[4] = 534100  
+Audit data size is 35052. No. 1 audit process. 
+StorageCost 23368  CommunicationCost 5
+time[0] = 0  time[1] = 5160500  time[2] = 872450900  time[3] = 0  time[4] = 706000  
+Audit data size is 35058. No. 1 audit process. 
+StorageCost 23372  CommunicationCost 5
+time[0] = 510600  time[1] = 5156400  time[2] = 752498100  time[3] = 0  time[4] = 537100  
+Audit data size is 35064. No. 1 audit process. 
+StorageCost 23376  CommunicationCost 5
+time[0] = 520900  time[1] = 9490600  time[2] = 994429400  time[3] = 0  time[4] = 603900  
+Audit data size is 35076. No. 1 audit process. 
+StorageCost 23384  CommunicationCost 5
+time[0] = 0  time[1] = 7890400  time[2] = 892722100  time[3] = 0  time[4] = 156604161000  
+Audit data size is 35088. No. 1 audit process. 
+StorageCost 23392  CommunicationCost 5
+time[0] = 0  time[1] = 5123600  time[2] = 733135200  time[3] = 0  time[4] = 0  
+Audit data size is 35094. No. 1 audit process. 
+StorageCost 23396  CommunicationCost 5
+time[0] = 0  time[1] = 4680600  time[2] = 831102800  time[3] = 0  time[4] = 0  
+Audit data size is 35100. No. 1 audit process. 
+StorageCost 23400  CommunicationCost 5
+time[0] = 0  time[1] = 8266100  time[2] = 732722500  time[3] = 0  time[4] = 338371145600  
+Audit data size is 35106. No. 1 audit process. 
+StorageCost 23404  CommunicationCost 5
+time[0] = 0  time[1] = 7854300  time[2] = 776646900  time[3] = 0  time[4] = 23259607300  
+Audit data size is 35150. No. 1 audit process. 
+StorageCost 35150  CommunicationCost 100
+time[0] = 0  time[1] = 11799500  time[2] = 748054400  time[3] = 0  time[4] = 478151630600  
+Audit data size is 35160. No. 1 audit process. 
+StorageCost 23440  CommunicationCost 5
+time[0] = 0  time[1] = 4639100  time[2] = 854441400  time[3] = 0  time[4] = 0  
+Audit data size is 35166. No. 1 audit process. 
+StorageCost 23444  CommunicationCost 5
+time[0] = 0  time[1] = 5178200  time[2] = 839321200  time[3] = 0  time[4] = 0  
+Audit data size is 35172. No. 1 audit process. 
+StorageCost 23448  CommunicationCost 5
+time[0] = 0  time[1] = 5105700  time[2] = 719666400  time[3] = 0  time[4] = 0  
+Audit data size is 35178. No. 1 audit process. 
+StorageCost 23452  CommunicationCost 5
+time[0] = 0  time[1] = 5656300  time[2] = 733674600  time[3] = 0  time[4] = 0  
+Audit data size is 35190. No. 1 audit process. 
+StorageCost 23460  CommunicationCost 5
+time[0] = 0  time[1] = 4628400  time[2] = 725963900  time[3] = 0  time[4] = 0  
+Audit data size is 35202. No. 1 audit process. 
+StorageCost 23468  CommunicationCost 5
+time[0] = 0  time[1] = 7695100  time[2] = 733667900  time[3] = 0  time[4] = 53504982200  
+Audit data size is 35208. No. 1 audit process. 
+StorageCost 23472  CommunicationCost 5
+time[0] = 0  time[1] = 4660800  time[2] = 815569200  time[3] = 0  time[4] = 0  
+Audit data size is 35214. No. 1 audit process. 
+StorageCost 23476  CommunicationCost 5
+time[0] = 0  time[1] = 5129200  time[2] = 1304924900  time[3] = 0  time[4] = 0  
+Audit data size is 35220. No. 1 audit process. 
+StorageCost 23480  CommunicationCost 5
+time[0] = 0  time[1] = 5160900  time[2] = 769905400  time[3] = 0  time[4] = 0  
+Audit data size is 35226. No. 1 audit process. 
+StorageCost 23484  CommunicationCost 5
+time[0] = 1483625400  time[1] = 8795400  time[2] = 30763711200  time[3] = 2111374400  time[4] = 266212903800  
+Audit data size is 35238. No. 1 audit process. 
+StorageCost 23492  CommunicationCost 5
+time[0] = 0  time[1] = 8265300  time[2] = 790400800  time[3] = 0  time[4] = 195694574800  
+Audit data size is 35244. No. 1 audit process. 
+StorageCost 23496  CommunicationCost 5
+time[0] = 0  time[1] = 7682000  time[2] = 909905900  time[3] = 0  time[4] = 53860218900  
+Audit data size is 35250. No. 1 audit process. 
+StorageCost 23500  CommunicationCost 5
+time[0] = 0  time[1] = 8427600  time[2] = 888679900  time[3] = 0  time[4] = 119199116500  
+Audit data size is 35256. No. 1 audit process. 
+StorageCost 23504  CommunicationCost 5
+time[0] = 0  time[1] = 7651500  time[2] = 868819600  time[3] = 0  time[4] = 40111212400  
+Audit data size is 35262. No. 1 audit process. 
+StorageCost 23508  CommunicationCost 5
+time[0] = 0  time[1] = 7698500  time[2] = 931645500  time[3] = 0  time[4] = 312703844600  
+Audit data size is 35268. No. 1 audit process. 
+StorageCost 23512  CommunicationCost 5
+time[0] = 509400  time[1] = 4629500  time[2] = 849552200  time[3] = 0  time[4] = 0  
+Audit data size is 35274. No. 1 audit process. 
+StorageCost 23516  CommunicationCost 5
+time[0] = 524200  time[1] = 5201000  time[2] = 859602200  time[3] = 0  time[4] = 0  
+Audit data size is 35280. No. 1 audit process. 
+StorageCost 23520  CommunicationCost 5
+time[0] = 511800  time[1] = 4644400  time[2] = 899558400  time[3] = 0  time[4] = 0  
+Audit data size is 35286. No. 1 audit process. 
+StorageCost 23524  CommunicationCost 5
+time[0] = 0  time[1] = 5122900  time[2] = 881131700  time[3] = 0  time[4] = 0  
+Audit data size is 35292. No. 1 audit process. 
+StorageCost 23528  CommunicationCost 5
+time[0] = 0  time[1] = 5157900  time[2] = 1391088300  time[3] = 0  time[4] = 546000  
+Audit data size is 35298. No. 1 audit process. 
+StorageCost 23532  CommunicationCost 5
+time[0] = 0  time[1] = 5296800  time[2] = 12840256600  time[3] = 0  time[4] = 0  
+Audit data size is 35304. No. 1 audit process. 
+StorageCost 23536  CommunicationCost 5
+time[0] = 508600  time[1] = 5715200  time[2] = 16240709600  time[3] = 0  time[4] = 0  
+Audit data size is 35310. No. 1 audit process. 
+StorageCost 23540  CommunicationCost 5
+time[0] = 0  time[1] = 5161800  time[2] = 1205178300  time[3] = 0  time[4] = 0  
+Audit data size is 35316. No. 1 audit process. 
+StorageCost 23544  CommunicationCost 5
+time[0] = 509500  time[1] = 4620500  time[2] = 1156143600  time[3] = 0  time[4] = 0  
+Audit data size is 35322. No. 1 audit process. 
+StorageCost 23548  CommunicationCost 5
+time[0] = 0  time[1] = 5153700  time[2] = 868116900  time[3] = 0  time[4] = 0  
+Audit data size is 35334. No. 1 audit process. 
+StorageCost 23556  CommunicationCost 5
+time[0] = 0  time[1] = 5262100  time[2] = 735442600  time[3] = 0  time[4] = 0  
+Audit data size is 35340. No. 1 audit process. 
+StorageCost 23560  CommunicationCost 5
+time[0] = 0  time[1] = 5179400  time[2] = 897974900  time[3] = 0  time[4] = 0  
+Audit data size is 35346. No. 1 audit process. 
+StorageCost 23564  CommunicationCost 5
+time[0] = 0  time[1] = 5173600  time[2] = 1254333300  time[3] = 0  time[4] = 0  
+Audit data size is 35352. No. 1 audit process. 
+StorageCost 23568  CommunicationCost 5
+time[0] = 0  time[1] = 14316800  time[2] = 1092870300  time[3] = 0  time[4] = 507000  
+Audit data size is 35358. No. 1 audit process. 
+StorageCost 23572  CommunicationCost 5
+time[0] = 509400  time[1] = 4653200  time[2] = 996434700  time[3] = 0  time[4] = 1181100  
+Audit data size is 35550. No. 1 audit process. 
+StorageCost 35550  CommunicationCost 450
+time[0] = 0  time[1] = 69911700  time[2] = 880641000  time[3] = 0  time[4] = 64675600  
