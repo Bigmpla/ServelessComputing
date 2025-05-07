@@ -14,7 +14,8 @@ import (
 )
 
 func main() {
-	filePath := "C:\\Users\\lx123\\Desktop\\bs\\Serveless_Go\\source.txt"
+	//the path of document need to be store
+	filePath := ""
 
 	var blockShards, dataShards int
 	fmt.Println("Please input the BLOCK_SHARDS:")
@@ -43,8 +44,10 @@ func auditTask(filePath string, blockShards, dataShards, taskCount int) {
 	fmt.Println("---OutSource phase start---")
 	startTime = time.Now()
 	timeCosts[1] = integrityAuditing.OutSource()
-	uploadSourceFilePath := "C:\\Users\\lx123\\Desktop\\bs\\Serveless_Go\\source.txt"
-	uploadParitiesPath := "C:\\Users\\lx123\\Desktop\\bs\\Serveless_Go\\parities.txt"
+	//the path that storing source file
+	uploadSourceFilePath := ""
+	//the path that storing parity file
+	uploadParitiesPath := ""
 
 	// 将源文件存储到本地
 	os.WriteFile(uploadSourceFilePath, bytes.Join(integrityAuditing.OriginalData, nil), 0644)
@@ -170,7 +173,8 @@ func auditTask(filePath string, blockShards, dataShards, taskCount int) {
 	timeCosts[4] = time.Since(startTime).Nanoseconds()
 
 	// 存储性能结果
-	performanceFilePath := "C:\\Users\\lx123\\Desktop\\bs\\Serveless_Go\\result.txt"
+	//the path that storing result file
+	performanceFilePath := ""
 	performanceFile, err := os.OpenFile(performanceFilePath, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
 	if err != nil {
 		log.Fatalf("Error opening performance file: %v", err)
